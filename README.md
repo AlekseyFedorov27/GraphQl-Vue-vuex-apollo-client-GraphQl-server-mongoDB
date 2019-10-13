@@ -1,4 +1,4 @@
-# GraphQl-Vue-vuex-apollo-client-GraphQl-server-mongoDB
+# GraphQl-Vue-vuex(apollo-client), GraphQl-server, mongoDB
 
 seerver app.js change
 const user = 'your user name';
