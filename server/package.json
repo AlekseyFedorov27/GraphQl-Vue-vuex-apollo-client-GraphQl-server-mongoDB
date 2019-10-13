@@ -1,0 +1,19 @@
+{
+  "name": "graphql-vue",
+  "version": "1.0.0",
+  "description": "graphql_tutorial",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon server/app.js"
+  },
+  "author": "AlexFed",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.3",
+    "mongoose": "^5.6.11",
+    "nodemon": "^1.19.1"
+  }
+}
