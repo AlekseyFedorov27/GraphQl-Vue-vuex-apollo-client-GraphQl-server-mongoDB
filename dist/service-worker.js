@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.66233f2ca60406202ca4af969cf978a7.js"
+  "/precache-manifest.519fbdfe42ae51656a490435ee790215.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue_vuex_graphql"});
